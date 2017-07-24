@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorPrimaryLight">#4DD0E1</color>
+    <color name="colorFabTitleBackground">#646464</color>
+
+    <color name="colorPrimaryRed">#f44336</color>
+    <color name="colorPrimaryDarkRed">#e53935</color>
+    <color name="colorAccentRed">#ef5350</color>
+    <color name="colorPrimaryLightRed">#ef9a9a</color>
+
+    <color name="colorPrimaryYellow">#FFEB3B</color>
+    <color name="colorPrimaryDarkYellow">#FBC02D</color>
+    <color name="colorAccentYellow">#FFEB3B</color>
+    <color name="colorPrimaryLightYellow">#FFEE58</color>
+
+    <color name="colorPrimaryBlue">#2196F3</color>
+    <color name="colorPrimaryDarkBlue">#1976D2</color>
+    <color name="colorAccentBlue">#2196F3</color>
+    <color name="colorPrimaryLightBlue">#64B5F6</color>
+
+    <color name="colorPrimaryOrange">#FB8C00</color>
+    <color name="colorPrimaryDarkOrange">#EF6C00</color>
+    <color name="colorAccentOrange">#FB8C00</color>
+    <color name="colorPrimaryLightOrange">#FFA726</color>
+
+    <color name="colorPrimaryBlack">#000</color>
+    <color name="colorPrimaryDarkBlack">#000</color>
+    <color name="colorAccentBlack">#000</color>
+    <color name="colorPrimaryLightBlack">#fff</color>
+    <color name="greyMaterialDark">#424242</color>
+    <color name="red">#f44336</color>
+
+</resources>
